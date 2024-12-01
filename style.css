@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 45px;
+}
+button{
+    border: none;
+ cursor: pointer;
+    width: 50px;
+    height: 55px;
+    margin: 5px;
+    border-radius: 25px;
+    color: rgb(78, 81, 83);
+}
+.width{
+    width: 110px;
+}
+#inputBox{
+    width: 235px;
+    height: 30px;
+}
+.operator{
+    background-color:orange;
+}
+.operator1{
+    background-color: orange;
+    font-size: larger;
+}
